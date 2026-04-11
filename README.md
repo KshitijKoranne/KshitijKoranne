@@ -17,19 +17,8 @@
 - 📝 **[Verbatim](https://verbatim-quote.vercel.app)** — Infinite masonry quote wall with 12 Google Font voices and share cards
 - 🎮 **[WasteMyTime.fun](https://wastemytime.fun)** — neal.fun-style interactive activities for Indian audiences
 - 🧱 **[UUIDWalls](https://uuidwalls.vercel.app)** — UUID-to-wallpaper generator with 6 pattern families and permalink sharing
-- 📊 **[AVN Track](https://avn-chi.vercel.app)** — Pain and recovery tracker with full Supabase backend
-- 🔤 **[SpellBuddy](https://github.com/KshitijKoranne/spellbuddy)** — Children's spelling game with live speech recognition and AI-generated images
 - 🗂️ **[ProcessDraw](https://github.com/KshitijKoranne/processdraw)** — Cloud SaaS process flow diagram tool with approval workflows and audit trail
-- 💊 **[QReview / APQR](https://github.com/KshitijKoranne/APQR)** — Pharma APQR web app with Cp/Cpk/Pp/Ppk stats engine and I-MR charts
 - 🧰 **[Claude Skills](https://github.com/KshitijKoranne/Claude-skills)** — Published skills: Next.js+Turso SaaS scaffold & GAMP 5 FMEA risk generator
-
-## Pharma / QA Work
-
-14+ years in pharmaceutical API manufacturing — specialising in:
-- **Computerised System Validation (CSV)** aligned to GAMP 5 Second Edition
-- **LIMS Implementation** (OasisLIMS 4.5)
-- **Cleaning Validation** and process qualification documentation
-- **SAP S/4HANA** migration audit documentation
 
 ## GitHub Activity
 
@@ -38,7 +27,7 @@
 ## What I'm Doing
 
 - **Building in public** — shipping KJR Labs products and posting on [@kshitijkoranne](https://x.com/kshitijkoranne)
-- **Contributing to open source** — fixing real bugs in production projects like [Twenty CRM](https://github.com/twentyhq/twenty)
+- **Contributing to open source** — fixing real bugs in production codebases
 - **Writing** — documenting the weird intersection of pharma QA and indie hacking
 
 ## Connect
@@ -57,8 +46,6 @@
 <details>
 <summary>Random Facts</summary>
 
-- Ships full-stack apps without knowing how to code
-- Runs a pharma QA department by day, deploys to Vercel by night
 - Prefers quality over quantity in both SOP writing and UI design
 - Fuelled by chai and a stubborn refusal to wait for permission
 
