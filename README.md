@@ -2,13 +2,6 @@
 
 📍 **Vadodara, India** | 🧪 **Senior QA/CSV Executive by day** | 🛠️ **Indie builder by night** | 🚀 **Shipping products under [KJR Labs](https://kjrlabs.in)**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-
 > 14+ years in pharmaceutical QA/CSV — now building web products with AI at an unreasonable pace. Non-programmer who ships full-stack apps. Every product under KJR Labs is built solo, from idea to deployment.
 
 ## Current Projects
